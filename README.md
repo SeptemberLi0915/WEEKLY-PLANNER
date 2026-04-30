@@ -2,14 +2,19 @@
 📅 Weekly Planner: Your All-in-One Efficiency Expert
 
 📅 每周任务：你的全方位高效执行专家
-🌟 Project Overview / 项目简介
+
+🌟 Project Overview 项目简介
+
 This is more than a simple to-do list; it is a comprehensive productivity ecosystem that integrates time management, habit formation, mood tracking, and a gamified reward system. It is designed to help users regain a sense of control in a fast-paced life by quantifying every bit of progress digitally.
+
 这不仅仅是一个简单的待办清单，而是一个集成了时间管理、习惯养成、情绪追踪以及游戏化激励系统的全方位效率生态。它旨在通过数字化的方式量化每一天的进步，帮助用户在快节奏的生活中找回掌控感。
 
 🚀 Core Features
 核心功能
+
 1. Real-time Dashboard
 实时数据看板
+
 Dynamic Statistics: The top section intuitively displays your "Completion Rate," "Daily Task Peak," and "Total Weekly Points."
 
 实时数据统计：顶部直观展示“完成率”、“最高日任务量”以及“本周总积分”。
@@ -20,6 +25,7 @@ Visual Weekly Report: A bar chart provides real-time feedback on your daily task
 
 2. Advanced Task Management
 深度任务管理
+
 Weekly Goal Focus: Set the "Most Important Thing" for the week in the top-left corner to ensure you stay aligned with your core objectives.
 
 本周目标聚焦：在左上角设置“本周最重要的事情”，确保你始终聚焦于核心目标。
@@ -34,6 +40,7 @@ Filter & Search: Quickly filter tasks by "Pending," "Completed," or "High Priori
 
 3. Gamification & Habits
 习惯与激励系统
+
 Habit Tracker: Customize and track long-term habits on the left-hand card to build lasting consistency.
 
 习惯打卡：左侧卡片支持自定义习惯并持续追踪，助力培养长期主义。
@@ -48,6 +55,7 @@ Growth Stages: Unlock higher levels as your points grow, making your personal de
 
 4. Holistic Well-being
 身心健康监测
+
 Mood & Energy Check-in: Record not just your work, but your mental state (Happy, Calm, Tired, Anxious) and energy levels (High, Mid, Low).
 
 情绪与能量打卡：不仅记录工作，还记录你的心理状态（开心、平静、疲惫、焦虑）和能量水平（高、中、低）。
@@ -58,6 +66,7 @@ Self-Reflection: This data helps users discover potential correlations between t
 
 🛠 Quick Start Guide 
 快速上手指南
+
 Define Your Goal: Write down your core vision in the "Weekly Goal" section.
 
 设定目标：在“本周目标”中写下你的核心愿景。
