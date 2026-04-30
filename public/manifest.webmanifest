@@ -1,0 +1,19 @@
+{
+  "name": "Weekly Planner",
+  "short_name": "Planner",
+  "description": "可安装的每周计划小工具",
+  "lang": "zh-CN",
+  "start_url": "/WEEKLY-PLANNER/",
+  "scope": "/WEEKLY-PLANNER/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/WEEKLY-PLANNER/pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
